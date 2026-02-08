@@ -1,4 +1,4 @@
-let apiKey = "6db4ec63167a6bea404999a443412f8d";
+let apiKey = "YOUR_API_KEY";
 
 // Loading functions
 function showLoading() {
