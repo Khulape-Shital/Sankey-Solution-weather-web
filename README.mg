@@ -6,22 +6,22 @@ A beautiful, responsive weather application that provides real-time weather fore
 
 ##  Features
 
--  **Current Location Weather**  
+- **Current Location Weather**  
   Automatically detects and displays weather for your current location.
 
--  **City Search**  
+- **City Search**  
   Search for weather information of any city worldwide.
 
--  **Favorites Management**  
+- **Favorites Management**  
   Save and manage your favorite cities for quick access.
 
--  **5-Day Forecast**  
+- **5-Day Forecast**  
   View detailed weather forecasts for the next 5 days.
 
--  **Fully Responsive**  
+- **Fully Responsive**  
   Works seamlessly on mobile, tablet, and desktop devices.
 
--  **Modern UI**  
+- **Modern UI**  
   Glassmorphism design with smooth animations.
 
 ---
