@@ -26,7 +26,7 @@ body {
   min-height: 100vh;
 }
 
-/* Loading Spinner Styles */
+ 
 .loading-spinner {
     position: fixed;
     top: 0;
@@ -117,7 +117,7 @@ nav ul li a:hover {
 .active:hover {
   background: var(--text-white) !important;
 }
-/* Header and Search */
+ 
 h3 {
   color: var(--text-white);
   text-align: center;
@@ -173,7 +173,7 @@ h3 {
   color: rgba(255, 255, 255, 0.6);
   font-weight: 300;
 }
-/* Messages */
+ 
 .error-message {
   display: none;
 }
@@ -213,7 +213,7 @@ h3 {
   font-size: 16px;
   line-height: 1.6;
 }
-/* Weather Results */
+ 
 .return {
   display: none;
 }
@@ -278,7 +278,7 @@ h3 {
   filter: drop-shadow(0 8px 16px rgba(0, 0, 0, 0.3));
 }
 
-/* Favorite Button */
+ 
 .favorite-btn {
   position: absolute;
   top: 20px;
@@ -321,7 +321,7 @@ h3 {
   box-shadow: 0 6px 20px rgba(255, 107, 107, 0.6);
 }
 
-/* Favorites Section */
+ 
 .favorites-section {
   max-width: 400px;
   margin: 30px auto;
@@ -402,7 +402,7 @@ h3 {
   display: none;
 }
 
-/* Weather Description Cards */
+ 
 .weather-desc {
   display: flex;
   gap: 12px;
@@ -575,7 +575,7 @@ h3 {
     font-size: 18px;
   }
 }
-/* Desktop Responsive Styles */
+ 
 @media (min-width: 768px) {
     #screen {
         padding: 30px;
@@ -663,9 +663,7 @@ h3 {
         grid-template-columns: repeat(5, 1fr);
     }
     
-    /* nav {
-        max-width: 900px;
-    } */
+   
      .favorites-section {
     max-width: 920px;
     margin: 40px auto;

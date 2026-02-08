@@ -27,7 +27,7 @@ body {
   overflow-x: hidden;
 }
 
-/* Loading Spinner Styles */
+ 
 .loading-spinner {
     position: fixed;
     top: 0;
@@ -117,7 +117,7 @@ nav ul li a:hover {
 .active:hover {
   background: var(--text-white) !important;
 }
-/* Weather Content */
+ 
 .city-name {
   color: var(--text-white);
   display: flex;
@@ -339,8 +339,7 @@ nav ul li a:hover {
   opacity: 0.8;
   text-transform: capitalize;
 }
-
-/* Favorite Cities */
+ 
 .favorite-cities {
   max-width: 400px;
   margin: 20px auto 100px;
@@ -538,7 +537,7 @@ nav ul li a:hover {
   .favorite-city-item .city-temp-fav {
     font-size: 18px;
   }
-}/* Desktop Responsive Styles */
+} 
 @media (min-width: 768px) {
     #screen {
         padding: 30px;
